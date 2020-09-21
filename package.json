@@ -1,6 +1,6 @@
 {
-  "name": "cra-template-infoshare-2020",
-  "version": "1.0.3",
+  "name": "cra-template-frontend-conf",
+  "version": "1.0.4",
   "keywords": [
     "react",
     "create-react-app",
@@ -10,7 +10,7 @@
   "description": "The base TypeScript template for Create React App.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git"
+    "url": "https://github.com/DmitriyNoa/cra-template-infoshare-2020.git"
   },
   "license": "MIT",
   "engines": {
