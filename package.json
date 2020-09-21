@@ -6,6 +6,7 @@
     "create-react-app",
     "template"
   ],
+  "main": "template.json",
   "description": "The base TypeScript template for Create React App.",
   "repository": {
     "type": "git",
