@@ -1,6 +1,6 @@
 {
   "name": "cra-template-frontend-conf",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "keywords": [
     "react",
     "create-react-app",
@@ -22,7 +22,9 @@
   },
   "devDependencies": {
     "@types/enzyme": "^3.10.6",
-    "enzyme": "^3.11.0"
+    "enzyme": "^3.11.0",
+    "@types/react-dom": "^16.9.8",
+    "@types/react-router-dom": "^5.1.5"
   },
   "files": [
     "template",
