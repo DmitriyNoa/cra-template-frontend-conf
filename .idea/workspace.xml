@@ -22,6 +22,7 @@
     <list default="true" id="c2d0dc79-e5c0-4ae0-8006-2ec0d418861b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template.json" beforeDir="false" afterPath="$PROJECT_DIR$/template.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +73,7 @@
       <workItem from="1600681365250" duration="4765000" />
       <workItem from="1600694138587" duration="587000" />
       <workItem from="1600699514554" duration="1328000" />
-      <workItem from="1600782619484" duration="3516000" />
+      <workItem from="1600782619484" duration="3852000" />
     </task>
     <servers />
   </component>
